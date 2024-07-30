@@ -1,1 +1,1 @@
-# otheramazon
+# amazon
